@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "i-button": "../../utils/iview-weapp/button/index",
+    "i-input": "../../utils/iview-weapp/input/index"
+  }
+}
